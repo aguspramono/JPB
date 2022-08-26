@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PembelianPenjualanBuah
+</name>
+</assembly>
+<members>
+<member name="M:PembelianPenjualanBuah.frmUpdateHarga.setjamDtHelp(System.String)">
+	<summary>
+ default "00:00:00"
+ </summary>
+</member><member name="M:PembelianPenjualanBuah.clsGlobal.selectCommand(System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ select*from customer where NoAccount=@NoAccount kalo pake like WHERE (body LIKE '%' + @query + '%') 
+ </summary>
+	<param name="myQuery">select*from customer where NoAccount=@NoAccount kalo pake like WHERE (body LIKE '%' + @query + '%')</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="opt">Isi 1 kalo mau pake kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsGlobal.updateCommand(System.String,System.String[],System.Object[],System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ "UPDATE TableName SET ColoumnName = @ColoumnName WHERE kondisi = 1"
+ </summary>
+	<param name="myQuery">Isi dengan "UPDATE namaTable SET "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="kondisiWhere">Kondisi "where NoAccount =@NoAccount2"</param>
+	<param name="namaKolom2">Nama Kolom Where @NoAccount2</param>
+	<param name="isiKolom2">Isi Kolom where @NoAccount2</param>
+	<param name="opt">isi 1 kalo mau pakai namakolom2 di where,opt 2 cm mau pakai namakolom2 di where</param>
+</member><member name="M:PembelianPenjualanBuah.clsGlobal.insertCommand(System.String,System.String[],System.Object[])">
+	<summary>
+ INSERT INTO Customer (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan) VALUES (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan)
+ </summary>
+	<param name="myQuery">Isi dengan "INSERT INTO namaTable  "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsGlobal.insertCommand2(System.String,System.String[],System.Object[])">
+	<summary>
+ INSERT INTO Customer (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan) VALUES (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan)
+ </summary>
+	<param name="myQuery">Isi dengan "INSERT INTO namaTable  "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsGlobal.deleteCommand(System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ "Delete From TableName where ColumnName= 'asdasdasdasdas'"
+ </summary>
+	<param name="myQuery">Isi dengan "Delete From TableName where ColumnName= 'asdasdasdasdas'"</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="opt">Isi 1 kalo mau pake kolom</param>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.windows_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

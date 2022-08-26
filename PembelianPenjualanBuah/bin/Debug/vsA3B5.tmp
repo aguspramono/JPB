@@ -1,0 +1,386 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PembelianPenjualanBuah
+</name>
+</assembly>
+<members>
+<member name="M:PembelianPenjualanBuah.frmUpdateHarga2.setjamDtHelp(System.String)">
+	<summary>
+ default "00:00:00"
+ </summary>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.selectCommand(System.Int32,System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ select*from customer where NoAccount=@NoAccount kalo pake like WHERE (body LIKE '%' + @query + '%') 
+ </summary>
+	<param name="myQuery">select*from customer where NoAccount=@NoAccount kalo pake like WHERE (body LIKE '%' + @query + '%')</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="opt">Isi 1 kalo mau pake kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.loginAccount(System.Int32,System.String,System.String)">
+	<summary>
+ Login
+ </summary>
+	<param name="userName">Username</param>
+	<param name="passWord">IsiPassword</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.updateCommand(System.Int32,System.String,System.String[],System.Object[],System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ "UPDATE TableName SET ColoumnName = @ColoumnName WHERE kondisi = 1"
+ </summary>
+	<param name="myQuery">Isi dengan "UPDATE namaTable SET "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="kondisiWhere">Kondisi "where NoAccount =@NoAccount2"</param>
+	<param name="namaKolom2">Nama Kolom Where @NoAccount2</param>
+	<param name="isiKolom2">Isi Kolom where @NoAccount2</param>
+	<param name="opt">isi 1 kalo mau pakai namakolom2 di where,opt 2 cm mau pakai namakolom2 di where</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.insertCommand(System.Int32,System.String,System.String[],System.Object[])">
+	<summary>
+ INSERT INTO Customer (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan) VALUES (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan)
+ </summary>
+	<param name="myQuery">Isi dengan "INSERT INTO namaTable  "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.insertCommand2(System.Int32,System.String,System.String[],System.Object[])">
+	<summary>
+ INSERT INTO Customer (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan) VALUES (NoAccount,Nama,Telp,Alamat,Kota,NoAccountParent,Keterangan)
+ </summary>
+	<param name="myQuery">Isi dengan "INSERT INTO namaTable  "</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.deleteCommand(System.Int32,System.String,System.String[],System.Object[],System.Int32)">
+	<summary>
+ "Delete From TableName where ColumnName= 'asdasdasdasdas'"
+ </summary>
+	<param name="myQuery">Isi dengan "Delete From TableName where ColumnName= 'asdasdasdasdas'"</param>
+	<param name="namaKolom">Nama Kolom </param>
+	<param name="isiKolom">Isi Kolom</param>
+	<param name="opt">Isi 1 kalo mau pake kolom</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.getConnection(System.Int32)">
+	<summary>
+	</summary>
+	<param name="pilihan"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.RemoveAccessDatabase(System.String,System.Int32,System.Int32)">
+	<summary>
+ Remove MS-Access database
+ </summary>
+	<param name="FileName">Database to remove</param>
+	<param name="WaitTime">Sleep time</param>
+	<param name="Loops">How many attempts to try</param>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.RemoveImage(System.String,System.Int32,System.Int32)">
+	<summary>
+ Remove MS-Access database
+ </summary>
+	<param name="FileName">Database to remove</param>
+	<param name="WaitTime">Sleep time</param>
+	<param name="Loops">How many attempts to try</param>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.Encrypt(System.String)">
+	<summary>
+	</summary>
+	<param name="clearText"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.Decrypt(System.String)">
+	<summary>
+	</summary>
+	<param name="cipherText"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.loadData">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.ReadFile(System.String)">
+	<summary>
+	</summary>
+	<param name="Filename"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.Rounding(System.Object,System.Object)">
+	<summary>
+	</summary>
+	<param name="nilai"></param>
+	<param name="koma"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.GetCounter(System.Object)">
+	<summary>
+	</summary>
+	<param name="nama"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.textBoxOnlyNumber(System.Windows.Forms.KeyPressEventArgs,System.Object[])">
+	<summary>
+	</summary>
+	<param name="e"></param>
+	<param name="bukaNo"></param>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.tglAwalBulan(System.DateTime)">
+	<summary>
+	</summary>
+	<param name="dateTime"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.tglAkhirBulan(System.DateTime)">
+	<summary>
+	</summary>
+	<param name="dateTime"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.ResizePicture(System.Windows.Forms.PictureBox,System.Drawing.Image)">
+	<summary>
+	</summary>
+	<param name="pBox"></param>
+	<param name="pImage"></param>
+	<remarks></remarks>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.getFileName(System.String)">
+	<summary>
+ mendapatkan nama file dari path yang di isi 
+ </summary>
+	<param name="tNamaFile">Isi dengan path beserta dengan nama file.</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.getFileExtension(System.String)">
+	<summary>
+ mendapatkan File Extension dari path yang di isi 
+ </summary>
+	<param name="tNamaFile">Isi dengan path beserta dengan nama file.</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.getComboBoxKeyVal(System.Windows.Forms.ComboBox,System.Int32)">
+	<summary>
+ Mengambil data dari key/value dari item combo box yang terpilih 
+ </summary>
+	<param name="tComboBox">Isi dengan ComboBox yang dipilih.</param>
+	<param name="tPilih">0(default) mengambil key, 1 mengambil value</param>
+</member><member name="M:PembelianPenjualanBuah.clsKoneksi.BytesConverter(System.Int64)">
+	<summary>
+	</summary>
+	<param name="bytes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PembelianPenjualanBuah.MyButton.Width2">
+	<summary>
+ Width ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.Height2">
+	<summary>
+ Height ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.NumberOfSides">
+	<summary>
+ NumberOfSides
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.OffsetAngleInDegrees">
+	<summary>
+ Height ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.IndexKebun">
+	<summary>
+ IndexKebun
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.IndexKebunS">
+	<summary>
+ IndexKebun String
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.IndexButton">
+	<summary>
+ IndexButton Integer
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.IndexBaris">
+	<summary>
+ IndexBaris Integer
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyButton.IndexKolom">
+	<summary>
+ IndexKolom Integer
+ </summary>
+</member><member name="M:PembelianPenjualanBuah.frmUpdateHarga.setjamDtHelp(System.String)">
+	<summary>
+ default "00:00:00"
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.My.Resources.Resources.windows_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.Width2">
+	<summary>
+ Width ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.Height2">
+	<summary>
+ Height ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.NumberOfSides">
+	<summary>
+ NumberOfSides
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.OffsetAngleInDegrees">
+	<summary>
+ Height ke 2
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.IndexKebun">
+	<summary>
+ IndexKebun
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.IndexKebunS">
+	<summary>
+ IndexKebun String
+ </summary>
+</member><member name="P:PembelianPenjualanBuah.MyLabel.IndexButton">
+	<summary>
+ IndexButton Integer
+ </summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.Pembelian2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.pengecualianbbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PjmlsejenisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PengecualianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.Pembelian2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.pengecualianbbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PjmlsejenisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PengecualianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.KelompokRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PembayaranFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.InvoiceDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.Pembelian2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.pengecualianbbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PjmlsejenisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan.PengecualianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PembelianPenjualanBuah.dsLaporan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

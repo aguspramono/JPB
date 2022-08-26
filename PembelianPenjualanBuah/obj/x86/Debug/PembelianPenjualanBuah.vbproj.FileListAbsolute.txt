@@ -1,0 +1,781 @@
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.Office.dll
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.xml
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.dll
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetail.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPDetailCari.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetailEdit.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetailEdit.resources
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.Office.dll
+G:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangDagang.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.dll
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.xml
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetailEdit.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPDetailCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangDagang.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetailEdit.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+F:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.Office.dll
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.Office.dll
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetailEdit.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPDetailCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangDagang.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetailEdit.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.dll
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+H:\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetailEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPDetailCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangDagang.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetailEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaBrondolan.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmFeeCari.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.Office.dll
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmChangeLog.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTBertahap.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPBertahap.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotonganPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2021\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmTambahanHargaPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.ExcelClientPkgLib.dll
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\Interop.VBIDE.dll
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.ResolveComReference.cache
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.FrmAkkHargaRata2.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmAtmpdanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBBPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmBukaPembayaranTBScari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariJumlahSpsi.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCariPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmChangeLog.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerBerdasarkanTBS.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplain.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmCustomerKomplainCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmEditHargaNotUpdate.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmFeeCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiKota.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmGantiPassword.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmImportDataPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaBrondolan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaCustomerAnyKelompokPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaEditDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaGradeA.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPengecualian.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputHargaPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputMultiJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputNamaSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPFDetailCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBPTDetailEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPBertahap.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranBTPDetailCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPembayaranNoTicket.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPinjamanTagihan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangDagang.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMultipleEditPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPF.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPFDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPT.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTBertahap.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranBPTDetailEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjamanTagihan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputPotonganAtmp.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIDikaliAccount.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSPSIDikaliNetto.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoiceDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInvoicePembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokFeeEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKelompokPapan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKota.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmKotaCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanHutangPembantu.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanInvoice.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanRekapTbs.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanTBSMasuk.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLaporanView.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmLogin.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmMainMenu.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPasswordEditNetto.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPecahTimbangan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaran.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranAccountCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFee.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeDetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembayaranFeeKelompokCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelian.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPembelianCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianbb.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPengecualianHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPenjualanCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPinjaman.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPJMLdanSejenis.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPjmldanSejenisnya.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPotonganPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmPPH.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProduct.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmProductCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSetting.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingCustomerGrossUp.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingCustomerGrossUpCariCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingCustomerGrossUpEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingCustomerGrossUpTambah.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingDatabase.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingMarsada.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingNamaBos.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingPerhitunganGrossup.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmInputSettingSPSIJumlahSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSettingTanggalFee.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSpesialCustomer.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmSPSI.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmTambahanHargaPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmtest.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHarga2.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaCoba.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaEdit.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaKelompok.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlat.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaPlatData.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaRata.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateHargaTambahdetail.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdateKePembelian.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUpdatePotongan.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUser.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.frmUserCari.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.Resources.resources
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbproj.GenerateResource.Cache
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe.config
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.exe
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.xml
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.pdb
+D:\Program Yang Dikerjakan Saat ini\2022\PembelianPenjualanBuah\PembelianPenjualanBuah\obj\x86\Debug\PembelianPenjualanBuah.vbprojResolveAssemblyReference.cache
