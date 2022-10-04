@@ -4,17 +4,83 @@ Public Class frmLaporanTBSMasuk
 
     Private Sub btnLaporanT_Click(sender As Object, e As EventArgs) Handles btnLaporanT.Click
         If cbPilih.SelectedIndex = 0 Then
-            Dim objReport As New LaporanTbsMasukTahunan
-            Dim myQuery As String = "select*from Pembelian "
-            Dim namaKolom As String() = {"Cari"}
-            Dim isiKolom As Object() = {cboTTahun.SelectedItem.ToString}
-            myQuery = myQuery & "where year(tgl2)=@cari"
-            myQuery = myQuery & " and KodeKota='" & clsKoneksi.kotaOn & "'"
-            objReport.Database.Tables("Pembelian").SetDataSource(clsKoneksi.selectCommand(1, myQuery, namaKolom, isiKolom, 1).Tables(0))
-            myQuery = "select*from customer"
-            objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
-            myQuery = "select*from kelompok"
-            objReport.Database.Tables("Kelompok").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+            Dim objReport As Object
+            If ckHarga.Checked = True Then
+
+                objReport = New LaporanTbsMasukPernama2New
+
+                Dim myQuery As String = "SELECT p.* FROM ((pembelian2 AS p LEFT JOIN customer AS c ON p.NoAccount = c.NoAccount) LEFT JOIN pengecualianbb AS pb ON p.NoAccount = pb.noAccount) LEFT JOIN pjmlsejenis AS pj ON p.NoAccount = pj.NoAccount"
+                myQuery = myQuery & " Where year(p.Tgl2)='" & cboTTahun.SelectedItem.ToString & "'"
+                myQuery = myQuery & " and p.kodekota='" & clsKoneksi.kotaOn & "' order by p.noticket "
+                objReport.Database.Tables("Pembelian2").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "select*from customer"
+                myQuery = myQuery
+                objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select pb.* from pengecualianbb pb "
+                myQuery = myQuery
+                objReport.Database.Tables("pengecualianbb").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select pj.* from Pjmlsejenis pj "
+                myQuery = myQuery
+                objReport.Database.Tables("Pjmlsejenis").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from pengecualian "
+                myQuery = myQuery
+                objReport.Database.Tables("Pengecualian").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from PengecualianMarsada "
+                myQuery = myQuery
+                objReport.Database.Tables("PengecualianMarsada").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from potonganplat "
+                myQuery = myQuery
+                objReport.Database.Tables("PotonganPlat").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                If ckSPSI.Checked = True Then
+                    myQuery = "Select * from SPSIKaliAccount "
+                    myQuery = myQuery
+                    objReport.Database.Tables("SPSIKaliAccount").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from SPSIPenjumlahanPerAccount where Utama='Y' "
+                    myQuery = myQuery
+                    objReport.Database.Tables("SPSIPenjumlahanPerAccount").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from Pinjaman "
+                    myQuery = myQuery
+                    objReport.Database.Tables("Pinjaman").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from PinjamanTagihan where Status='Y' "
+                    myQuery = myQuery
+                    objReport.Database.Tables("PinjamanTagihan").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                End If
+
+                
+
+                myQuery = "Select * from grossup where tipeGrossup=0"
+                myQuery = myQuery
+                objReport.Database.Tables("grossup").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+                objReport.SetParameterValue("jenislaporangrossup", "0")
+
+            Else
+
+                objReport = New LaporanTbsMasukTahunan
+                Dim myQuery As String = "select*from Pembelian "
+                Dim namaKolom As String() = {"Cari"}
+                Dim isiKolom As Object() = {cboTTahun.SelectedItem.ToString}
+                myQuery = myQuery & "where year(tgl2)=@cari"
+                myQuery = myQuery & " and KodeKota='" & clsKoneksi.kotaOn & "'"
+                objReport.Database.Tables("Pembelian").SetDataSource(clsKoneksi.selectCommand(1, myQuery, namaKolom, isiKolom, 1).Tables(0))
+                myQuery = "select*from customer"
+                objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+                myQuery = "select*from kelompok"
+                objReport.Database.Tables("Kelompok").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+                
+
+            End If
+
             If clsKoneksi.kotaOn = "1" Then
                 objReport.SetParameterValue("Judul", "Laporan TBS Masuk Libo Tahun(" & cboTTahun.SelectedItem.ToString & ")")
             Else
@@ -29,25 +95,91 @@ Public Class frmLaporanTBSMasuk
             frmLaporanView.StartPosition = FormStartPosition.CenterScreen
             frmLaporanView.WindowState = FormWindowState.Maximized
             frmLaporanView.Show()
+            
         Else
-            Dim objReport As New LaporanTbsMasukTahunanPerNama
-            Dim myQuery As String = "select*from Pembelian "
-            Dim namaKolom As String() = {"Cari"}
-            Dim isiKolom As Object() = {cboTTahun.SelectedItem.ToString}
-            myQuery = myQuery & "where year(tgl2)=@cari"
-            myQuery = myQuery & " and KodeKota='" & clsKoneksi.kotaOn & "'"
-            objReport.Database.Tables("Pembelian").SetDataSource(clsKoneksi.selectCommand(1, myQuery, namaKolom, isiKolom, 1).Tables(0))
-            myQuery = "select*from customer"
-            objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
-            myQuery = "select*from kelompok"
-            objReport.Database.Tables("Kelompok").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+
+            Dim objReport As Object
+            If ckHarga.Checked = False Then
+
+                objReport = New LaporanTbsMasukTahunanPerNama
+                Dim myQuery As String = "select*from Pembelian "
+                Dim namaKolom As String() = {"Cari"}
+                Dim isiKolom As Object() = {cboTTahun.SelectedItem.ToString}
+                myQuery = myQuery & "where year(tgl2)=@cari"
+                myQuery = myQuery & " and KodeKota='" & clsKoneksi.kotaOn & "'"
+                objReport.Database.Tables("Pembelian").SetDataSource(clsKoneksi.selectCommand(1, myQuery, namaKolom, isiKolom, 1).Tables(0))
+                myQuery = "select*from customer"
+                objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+                myQuery = "select*from kelompok"
+                objReport.Database.Tables("Kelompok").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+            Else
+
+                objReport = New LaporanTbsMasukPernama2New
+
+                Dim myQuery As String = "SELECT p.* FROM ((pembelian2 AS p LEFT JOIN customer AS c ON p.NoAccount = c.NoAccount) LEFT JOIN pengecualianbb AS pb ON p.NoAccount = pb.noAccount) LEFT JOIN pjmlsejenis AS pj ON p.NoAccount = pj.NoAccount"
+                myQuery = myQuery & " Where year(p.Tgl2)='" & cboTTahun.SelectedItem.ToString & "'"
+                myQuery = myQuery & " and p.kodekota='" & clsKoneksi.kotaOn & "' order by p.noticket "
+                objReport.Database.Tables("Pembelian2").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "select*from customer"
+                myQuery = myQuery
+                objReport.Database.Tables("Customer").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select pb.* from pengecualianbb pb "
+                myQuery = myQuery
+                objReport.Database.Tables("pengecualianbb").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select pj.* from Pjmlsejenis pj "
+                myQuery = myQuery
+                objReport.Database.Tables("Pjmlsejenis").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from pengecualian "
+                myQuery = myQuery
+                objReport.Database.Tables("Pengecualian").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from PengecualianMarsada "
+                myQuery = myQuery
+                objReport.Database.Tables("PengecualianMarsada").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                myQuery = "Select * from potonganplat "
+                myQuery = myQuery
+                objReport.Database.Tables("PotonganPlat").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                If ckSPSI.Checked = True Then
+                    myQuery = "Select * from SPSIKaliAccount "
+                    myQuery = myQuery
+                    objReport.Database.Tables("SPSIKaliAccount").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from SPSIPenjumlahanPerAccount where Utama='Y' "
+                    myQuery = myQuery
+                    objReport.Database.Tables("SPSIPenjumlahanPerAccount").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from Pinjaman "
+                    myQuery = myQuery
+                    objReport.Database.Tables("Pinjaman").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                    myQuery = "Select * from PinjamanTagihan where Status='Y' "
+                    myQuery = myQuery
+                    objReport.Database.Tables("PinjamanTagihan").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+
+                End If
+
+                myQuery = "Select * from grossup where tipeGrossup=0"
+                myQuery = myQuery
+                objReport.Database.Tables("grossup").SetDataSource(clsKoneksi.selectCommand(1, myQuery).Tables(0))
+                objReport.SetParameterValue("jenislaporangrossup", "0")
+
+
+            End If
+
             If clsKoneksi.kotaOn = "1" Then
                 objReport.SetParameterValue("Judul", "Laporan TBS Masuk Libo Tahun(" & cboTTahun.SelectedItem.ToString & ")")
             Else
                 objReport.SetParameterValue("Judul", "Laporan TBS Masuk BinaBaru Tahun(" & cboTTahun.SelectedItem.ToString & ")")
             End If
             objReport.SetParameterValue("diPrintOleh", "Print by : " & frmMainMenu.lblStatusUserOn.Text)
-
+            objReport.SetParameterValue("jenislaporangrossup", "0")
 
             frmLaporanView.rptView.ShowGroupTreeButton = False
             frmLaporanView.rptView.ReportSource = objReport
@@ -55,10 +187,9 @@ Public Class frmLaporanTBSMasuk
             frmLaporanView.StartPosition = FormStartPosition.CenterScreen
             frmLaporanView.WindowState = FormWindowState.Maximized
             frmLaporanView.Show()
+
         End If
 
-
-        
     End Sub
 
     Private Sub frmLaporanTBSMasuk_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -135,6 +266,18 @@ Public Class frmLaporanTBSMasuk
         frmLaporanView.StartPosition = FormStartPosition.CenterScreen
         frmLaporanView.WindowState = FormWindowState.Maximized
         frmLaporanView.Show()
+    End Sub
+
+    Private Sub btnProses2_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub ckHarga_CheckedChanged(sender As Object, e As EventArgs) Handles ckHarga.CheckedChanged
+        If ckHarga.Checked = True Then
+            ckSPSI.Visible = True
+        Else
+            ckSPSI.Visible = False
+        End If
     End Sub
 End Class
 

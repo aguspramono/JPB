@@ -26,6 +26,7 @@ Partial Class frmLaporanTBSMasuk
         Me.SuperTabControl1 = New DevComponents.DotNetBar.SuperTabControl()
         Me.SuperTabControlPanel1 = New DevComponents.DotNetBar.SuperTabControlPanel()
         Me.PanelEx1 = New DevComponents.DotNetBar.PanelEx()
+        Me.ckHarga = New DevComponents.DotNetBar.Controls.CheckBoxX()
         Me.LabelX7 = New DevComponents.DotNetBar.LabelX()
         Me.LabelX8 = New DevComponents.DotNetBar.LabelX()
         Me.cbPilih = New DevComponents.DotNetBar.Controls.ComboBoxEx()
@@ -71,6 +72,7 @@ Partial Class frmLaporanTBSMasuk
         Me.btnLaporanH = New DevComponents.DotNetBar.ButtonX()
         Me.LabelX14 = New DevComponents.DotNetBar.LabelX()
         Me.SuperTabItem3 = New DevComponents.DotNetBar.SuperTabItem()
+        Me.ckSPSI = New DevComponents.DotNetBar.Controls.CheckBoxX()
         CType(Me.SuperTabControl1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuperTabControl1.SuspendLayout()
         Me.SuperTabControlPanel1.SuspendLayout()
@@ -125,6 +127,8 @@ Partial Class frmLaporanTBSMasuk
         '
         Me.PanelEx1.CanvasColor = System.Drawing.SystemColors.Control
         Me.PanelEx1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled
+        Me.PanelEx1.Controls.Add(Me.ckSPSI)
+        Me.PanelEx1.Controls.Add(Me.ckHarga)
         Me.PanelEx1.Controls.Add(Me.LabelX7)
         Me.PanelEx1.Controls.Add(Me.LabelX8)
         Me.PanelEx1.Controls.Add(Me.cbPilih)
@@ -132,6 +136,7 @@ Partial Class frmLaporanTBSMasuk
         Me.PanelEx1.Controls.Add(Me.LabelX2)
         Me.PanelEx1.Controls.Add(Me.btnLaporanT)
         Me.PanelEx1.Controls.Add(Me.LabelX1)
+        Me.PanelEx1.DisabledBackColor = System.Drawing.Color.Empty
         Me.PanelEx1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PanelEx1.Location = New System.Drawing.Point(0, 0)
         Me.PanelEx1.Name = "PanelEx1"
@@ -144,6 +149,19 @@ Partial Class frmLaporanTBSMasuk
         Me.PanelEx1.Style.ForeColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText
         Me.PanelEx1.Style.GradientAngle = 90
         Me.PanelEx1.TabIndex = 0
+        '
+        'ckHarga
+        '
+        '
+        '
+        '
+        Me.ckHarga.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
+        Me.ckHarga.Location = New System.Drawing.Point(12, 80)
+        Me.ckHarga.Name = "ckHarga"
+        Me.ckHarga.Size = New System.Drawing.Size(263, 23)
+        Me.ckHarga.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled
+        Me.ckHarga.TabIndex = 13
+        Me.ckHarga.Text = "Ceklis jika harga mengikuti laporan pembayaran"
         '
         'LabelX7
         '
@@ -220,7 +238,7 @@ Partial Class frmLaporanTBSMasuk
         '
         Me.btnLaporanT.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton
         Me.btnLaporanT.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground
-        Me.btnLaporanT.Location = New System.Drawing.Point(111, 86)
+        Me.btnLaporanT.Location = New System.Drawing.Point(12, 133)
         Me.btnLaporanT.Name = "btnLaporanT"
         Me.btnLaporanT.Size = New System.Drawing.Size(75, 23)
         Me.btnLaporanT.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled
@@ -267,6 +285,7 @@ Partial Class frmLaporanTBSMasuk
         Me.PanelEx2.Controls.Add(Me.cboBBulan)
         Me.PanelEx2.Controls.Add(Me.btnLaporanB)
         Me.PanelEx2.Controls.Add(Me.LabelX4)
+        Me.PanelEx2.DisabledBackColor = System.Drawing.Color.Empty
         Me.PanelEx2.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PanelEx2.Location = New System.Drawing.Point(0, 0)
         Me.PanelEx2.Name = "PanelEx2"
@@ -443,6 +462,7 @@ Partial Class frmLaporanTBSMasuk
         Me.PanelEx3.Controls.Add(Me.LabelX13)
         Me.PanelEx3.Controls.Add(Me.btnLaporanH)
         Me.PanelEx3.Controls.Add(Me.LabelX14)
+        Me.PanelEx3.DisabledBackColor = System.Drawing.Color.Empty
         Me.PanelEx3.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PanelEx3.Location = New System.Drawing.Point(0, 0)
         Me.PanelEx3.Name = "PanelEx3"
@@ -558,6 +578,20 @@ Partial Class frmLaporanTBSMasuk
         Me.SuperTabItem3.Name = "SuperTabItem3"
         Me.SuperTabItem3.Text = "Harian"
         '
+        'ckSPSI
+        '
+        '
+        '
+        '
+        Me.ckSPSI.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
+        Me.ckSPSI.Location = New System.Drawing.Point(12, 104)
+        Me.ckSPSI.Name = "ckSPSI"
+        Me.ckSPSI.Size = New System.Drawing.Size(263, 23)
+        Me.ckSPSI.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled
+        Me.ckSPSI.TabIndex = 14
+        Me.ckSPSI.Text = "Termasuk Potongan SPSI"
+        Me.ckSPSI.Visible = False
+        '
         'frmLaporanTBSMasuk
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -631,4 +665,6 @@ Partial Class frmLaporanTBSMasuk
     Friend WithEvents cbPilih As DevComponents.DotNetBar.Controls.ComboBoxEx
     Friend WithEvents ComboItem15 As DevComponents.Editors.ComboItem
     Friend WithEvents ComboItem16 As DevComponents.Editors.ComboItem
+    Friend WithEvents ckHarga As DevComponents.DotNetBar.Controls.CheckBoxX
+    Friend WithEvents ckSPSI As DevComponents.DotNetBar.Controls.CheckBoxX
 End Class

@@ -870,6 +870,12 @@
     <Compile Include="frmUserCari.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Laporan\CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Laporan\LaporanBukaPembayaranTBS.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -982,6 +988,18 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>LaporanTbsMasukHarian.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\LaporanTbsMasukPernama2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanTbsMasukPernama2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Laporan\LaporanTbsMasukPernama2New.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanTbsMasukPernama2New.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Laporan\LaporanTbsMasukTahunan.vb">
@@ -1407,6 +1425,10 @@
     <EmbeddedResource Include="frmUserCari.resx">
       <DependentUpon>frmUserCari.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Laporan\LaporanBukaPembayaranTBS.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>LaporanBukaPembayaranTBS.vb</LastGenOutput>
@@ -1482,6 +1504,14 @@
     <EmbeddedResource Include="Laporan\LaporanTbsMasukHarian.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>LaporanTbsMasukHarian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\LaporanTbsMasukPernama2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanTbsMasukPernama2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan\LaporanTbsMasukPernama2New.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LaporanTbsMasukPernama2New.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Laporan\LaporanTbsMasukTahunan.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

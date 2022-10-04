@@ -61,7 +61,7 @@ Partial Class frmChangeLog
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(11, 35)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(354, 1488)
+        Me.Label4.Size = New System.Drawing.Size(354, 1536)
         Me.Label4.TabIndex = 5
         Me.Label4.Text = resources.GetString("Label4.Text")
         '
